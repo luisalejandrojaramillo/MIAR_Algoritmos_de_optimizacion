@@ -10,11 +10,15 @@ Este repositorio contiene el desarrollo del trabajo práctico correspondiente al
 
 ```text
 SEMINARIO/
-└── Seminario_Algoritmos_Jaramillo_Castaneda.ipynb.ipynb
+├── documents/
+│   ├── Seminario_Algoritmos_Jaramillo_Castaneda.html
+│   └── Seminario_Algoritmos_Jaramillo_Castaneda.pdf
+└── trabajo_practico.ipynb
 ```
 
-* **SEMINARIO/**: carpeta donde se encuentra el notebook del trabajo.
-* **Seminario_Algoritmos_Jaramillo_Castaneda.ipynb**: notebook desarrollado en Jupyter/Google Colab.
+* **SEMINARIO/**: carpeta principal del trabajo.
+* **documents/**: contiene versiones exportadas del trabajo (HTML y PDF).
+* **trabajo_practico.ipynb**: notebook principal desarrollado en Jupyter/Colab.
 
 ---
 
