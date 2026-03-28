@@ -10,7 +10,7 @@ Este repositorio contiene el desarrollo del trabajo práctico correspondiente al
 
 ```text
 SEMINARIO/
-└── trabajo_practico.ipynb
+└── Seminario_Algoritmos_Jaramillo_Castaneda.ipynb.ipynb
 ```
 
 * **SEMINARIO/**: carpeta donde se encuentra el notebook del trabajo.
