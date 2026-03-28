@@ -22,6 +22,3 @@ SEMINARIO/
 
 * Nombre 1: *Luis Alejandro Jaramillo*
 * Nombre 2: *Carlos Andres Castañeda*
-
-
----
